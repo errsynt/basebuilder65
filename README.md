@@ -10,9 +10,5 @@ Because every user is different and will like to build their own different style
 * ✅ **Added a VIP system to make the game more advanced.**
 * ✅ **Added Game menu and shopping menu.**
 
-### __Authors :__
-* ✨ **Original Author : _Tirant_**
-* 🛠️ **Rebuild by : _Fixlt_**
-
-### __Links :__
+### __Original Mod :__
 * **Visit the original Mod at Alliedmodders** [here](https://forums.alliedmods.net/showthread.php?t=144287)
