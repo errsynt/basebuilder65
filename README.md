@@ -6,4 +6,4 @@ Because every user is different and will like to build their own different style
 
 ### __Original Mod :__
 * **Visit the original Mod at Alliedmodders** [here](https://forums.alliedmods.net/showthread.php?t=144287)
-* This means that this mod has been modified and other features have been added.
+* **This means that this mod has been modified and other features have been added.**
