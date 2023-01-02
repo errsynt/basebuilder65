@@ -4,11 +4,6 @@ Base builder zombie mod is an idea that totally warps the idea of a Half-Life zo
 
 Because every user is different and will like to build their own different styles of bases, every round is different. It is nearly impossible to recreate exact bases (unless the user has practiced significantly), so playing one map won't get too old too quickly.
 
-### __Features :__
-* ✅ **Re-coded the main engine [basebuilder65.sma] and classes menu.**
-* ✅ **Added prefixes manager [colorchat + prefixes] for administrators and VIPs only.**
-* ✅ **Added a VIP system to make the game more advanced.**
-* ✅ **Added Game menu and shopping menu.**
-
 ### __Original Mod :__
 * **Visit the original Mod at Alliedmodders** [here](https://forums.alliedmods.net/showthread.php?t=144287)
+* This means that this mod has been modified and other features have been added.
