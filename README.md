@@ -4,6 +4,21 @@ Base builder zombie mod is an idea that totally warps the idea of a Half-Life zo
 
 Because every user is different and will like to build their own different styles of bases, every round is different. It is nearly impossible to recreate exact bases (unless the user has practiced significantly), so playing one map won't get too old too quickly.
 
-### __Original Mod :__
-* **Visit the original Mod at Alliedmodders** [here](https://forums.alliedmods.net/showthread.php?t=144287)
-* **This means that this mod has been modified and other features have been added.**
+##
+
+### __🧰 Support :__
+- Discord: ItzFixlt#8525
+
+##
+
+### __🔐 You are free to:__
+- Download and install this Mod.
+- Redistribute this Mod on other sites.
+- Modify this Mod and distribute the modified Mod on another site.
+- Use this Mod or components of this Mod commercially.
+
+##
+
+### __📦 Original Mod :__
+- Visit the original Mod at Alliedmodders [here](https://forums.alliedmods.net/showthread.php?t=144287)
+- This means that this mod has been modified and other features have been added.
