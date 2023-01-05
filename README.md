@@ -11,7 +11,7 @@
 
 ##
 
-### __🔐 You are free to:__
+### __🔐 You are free to :__
 - **Download and install this Mod.**
 - **Redistribute this Mod on other sites.**
 - **Modify this Mod and distribute the modified Mod on another site.**
