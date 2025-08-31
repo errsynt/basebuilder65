@@ -1,11 +1,13 @@
-![img](https://i66.servimg.com/u/f66/14/16/45/93/new_zo11.jpg)
 ### __Base Builder 6.5 (Updated 1/2/2023)__
+
+## __Updates :__
+- Fixed some BUGs.
+- Built-in gameplay menu.
+- Built-in 3D Camera.
+- Added more sounds, models
+- Created full-functional VIP System.
+
 ## __You are free to :__
-- **Download and install this Mod.**
-- **Redistribute this Mod on other sites.**
-- **Modify this Mod and distribute the modified Mod on another site.**
-
-##
-
-## __Original Mod :__
-- **Visit the original Mod at Alliedmodders** [here](https://forums.alliedmods.net/showthread.php?t=144287)
+- Download and install this Mod.
+- Redistribute this Mod on other sites.
+- Modify this Mod and distribute the modified Mod on another site.
